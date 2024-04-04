@@ -1,0 +1,16 @@
+Balance: 0.0
+Streak: 0
+Date: 2024-04-03
+
+List of things to do (if you want to add or remove items, only change the lines below the dashed line)
+-------------------
+Made your bed: x
+Brushed teeth: x
+Woke up before 9: x
+Remembered 7 things from yesterday: x
+Applied to a job: x
+Read a few pages of a book: x
+Studied: x
+Exercised: x
+Cleaned your trash: x
+Put in retainers: x
